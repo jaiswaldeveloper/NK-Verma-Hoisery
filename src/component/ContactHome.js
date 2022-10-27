@@ -50,8 +50,8 @@ const ContactHome = () => {
               </h5>
             </div>
           </div>
-          <div className="col-md-1"></div>
-          <div className="col-md-5">
+          <div className="col-md-2"></div>
+          <div className="col-md-4">
             <Form
               action="https://formspree.io/f/xvoyaown"
               method="post"
@@ -132,7 +132,7 @@ const ContactHome = () => {
               </Form.Group>
 
               <div>
-                <Button type="submit" className=" btn btn-primary mt-3">
+                <Button type="submit" className=" btn btn-primary mt-3 con-btn">
                   Submit
                 </Button>
               </div>
