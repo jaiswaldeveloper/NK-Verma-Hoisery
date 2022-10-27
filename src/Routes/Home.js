@@ -15,7 +15,7 @@ const Home = () => {
     <>
       <ScrollToTopOnMount />
       <Helmet>
-        <title>Deal In Socks - NK HOSIEREY </title>
+        <title>Manufacture In Socks - NK HOSIEREY </title>
       </Helmet>
       <CarouselHeader />
       <AboutComponent />
