@@ -7,7 +7,7 @@ const Products = () => {
       <Helmet>
         <title>Socks Products - NK VERMA HOSIEREY </title>
       </Helmet>
-      <div className="banner-manufacture">
+      <div className="banner-manufacture my-5">
         <img src="assets/banner/product-banner2.jpg" alt="" />
       </div>
       <ProductComponent />

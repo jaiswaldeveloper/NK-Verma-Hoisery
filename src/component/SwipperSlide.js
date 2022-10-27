@@ -13,6 +13,7 @@ export default function App() {
   return (
     <>
       <Swiper
+        infiniteLoop={true}
         slidesPerView={1}
         spaceBetween={10}
         pagination={{

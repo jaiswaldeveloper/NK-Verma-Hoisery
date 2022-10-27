@@ -60,7 +60,7 @@ const ContactHome = () => {
               validated={validated}
               onSubmit={handleSubmit}
             >
-              <h3 className="mb-4">Submit your form</h3>
+              <h3 className="mb-4">Inquiry For Business</h3>
               <Form.Group controlId="validationCustom01">
                 <label className="label">Name</label>
                 <input
@@ -133,7 +133,7 @@ const ContactHome = () => {
 
               <div>
                 <Button type="submit" className=" btn btn-primary mt-3">
-                  Submit form
+                  Submit
                 </Button>
               </div>
             </Form>

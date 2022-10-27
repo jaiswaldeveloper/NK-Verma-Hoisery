@@ -22,7 +22,7 @@ a {
   color: inherit !important;
 }
 .active {
-  color: #ff3030 !important ;
+  color: #0d6efd !important ;
 }
 .main-nav {
   position: absolute !important;
@@ -87,7 +87,7 @@ a {
   transition: transform 0.2s;
 }
 .manufacture-images img:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 .banner-manufacture img {
   width: 100%;
